@@ -1,0 +1,15 @@
+C:\Users\Nitro V15\Desktop\OOP_Bootcamp\obj\Debug\net6.0\OOP_Bootcamp.csproj.AssemblyReference.cache
+C:\Users\Nitro V15\Desktop\OOP_Bootcamp\obj\Debug\net6.0\OOP_Bootcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro V15\Desktop\OOP_Bootcamp\obj\Debug\net6.0\OOP_Bootcamp.AssemblyInfoInputs.cache
+C:\Users\Nitro V15\Desktop\OOP_Bootcamp\obj\Debug\net6.0\OOP_Bootcamp.AssemblyInfo.cs
+C:\Users\Nitro V15\Desktop\OOP_Bootcamp\obj\Debug\net6.0\OOP_Bootcamp.csproj.CoreCompileInputs.cache
+C:\Users\Nitro V15\Desktop\OOP_Bootcamp\bin\Debug\net6.0\OOP_Bootcamp.exe
+C:\Users\Nitro V15\Desktop\OOP_Bootcamp\bin\Debug\net6.0\OOP_Bootcamp.deps.json
+C:\Users\Nitro V15\Desktop\OOP_Bootcamp\bin\Debug\net6.0\OOP_Bootcamp.runtimeconfig.json
+C:\Users\Nitro V15\Desktop\OOP_Bootcamp\bin\Debug\net6.0\OOP_Bootcamp.dll
+C:\Users\Nitro V15\Desktop\OOP_Bootcamp\bin\Debug\net6.0\OOP_Bootcamp.pdb
+C:\Users\Nitro V15\Desktop\OOP_Bootcamp\obj\Debug\net6.0\OOP_Bootcamp.dll
+C:\Users\Nitro V15\Desktop\OOP_Bootcamp\obj\Debug\net6.0\refint\OOP_Bootcamp.dll
+C:\Users\Nitro V15\Desktop\OOP_Bootcamp\obj\Debug\net6.0\OOP_Bootcamp.pdb
+C:\Users\Nitro V15\Desktop\OOP_Bootcamp\obj\Debug\net6.0\OOP_Bootcamp.genruntimeconfig.cache
+C:\Users\Nitro V15\Desktop\OOP_Bootcamp\obj\Debug\net6.0\ref\OOP_Bootcamp.dll
